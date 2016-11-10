@@ -5,7 +5,7 @@ then start it up.
 commands are 
 @botname list next here skip
 
-*skip is only for the amdin
+*skip is only for the admin_user (set in config.py)
 
 
 
