@@ -12,8 +12,8 @@ commands are
 
 
 
-# inspired by the guy below...good read check it out.
-# slack-starterbot
+# inspired by the slack-starterbot...good read check it out.
+
 A simple Python-powered starter Slack bot. Read 
 [the tutorial](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html) 
 for a full overview.
